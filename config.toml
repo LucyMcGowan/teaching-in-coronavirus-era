@@ -1,0 +1,62 @@
+baseURL = ""
+#CanonifyURLs=true
+
+languageCode = "en-us"
+theme = "ramium"
+
+title = "Teaching statistics during the cornavirus era"
+disqusShortname = ""
+googleAnalytics = ""
+summaryLength = 40
+pluralizeListTitles = false
+enableemoji = false
+
+[params]
+    description = ""
+    googleSearch = ""
+    showDate = false # make false if dont want to show date
+    math = false # best to enable this in the front matter of a page
+    githubProfile = "LucyMcGowan/teaching-in-coronavirus-era"
+
+    paginate = 10
+    tagsInHome = 10
+    sectionsInHome = 3
+    paginatePostsPerPage = 1
+    paginateTagsPerPage = 1
+
+#[taxonomies]
+ #   tag = "tags"
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+  #  [[menu.main]]
+   #     identifier = "blog"
+    #    name = "This Blog"
+     #   weight = 2
+      #      [[menu.main]]
+       #         parent = "blog"
+        #        name = "All Tags"
+         #       url = "/tags/"
+          #      weight = 1
+           # [[menu.main]]
+            #    parent = "blog"
+             #   name = "All Sections"
+              #  url = "/sections/"
+               # weight = 2
+      #      [[menu.main]]
+       #         parent = "blog"
+        #        name = "All Posts"
+         #       url = "/posts/"
+          #      weight = 3
+    
+  #  [[menu.main]]
+   #     name = "Author"
+    #    url = "/author/"
+     #   weight = 3
