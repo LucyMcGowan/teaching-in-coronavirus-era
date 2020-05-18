@@ -21,8 +21,8 @@ enableemoji = false
     paginate = 10
     tagsInHome = 30
     sectionsInHome = 3
-    paginatePostsPerPage = 1
-    paginateTagsPerPage = 1
+    paginatePostsPerPage = 30
+    paginateTagsPerPage = 30
 
 [taxonomies]
     tag = "tags"
