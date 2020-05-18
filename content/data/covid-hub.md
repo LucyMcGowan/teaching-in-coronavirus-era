@@ -27,6 +27,7 @@ tags:
 - Puerto Rico
 - Sweden
 - British Virgin Islands
+- global
 - R
 title: Covid-19 Data Hub
 ---

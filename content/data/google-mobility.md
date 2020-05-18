@@ -3,6 +3,7 @@ date: "2020-05-17"
 tags:
 - mobility
 - google
+- alternative data
 title: Google Mobility
 ---
 
