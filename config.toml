@@ -19,13 +19,13 @@ enableemoji = false
     githubProfile = "LucyMcGowan/teaching-in-coronavirus-era"
 
     paginate = 10
-    tagsInHome = 10
+    tagsInHome = 30
     sectionsInHome = 3
     paginatePostsPerPage = 1
     paginateTagsPerPage = 1
 
-#[taxonomies]
- #   tag = "tags"
+[taxonomies]
+    tag = "tags"
 
 [markup.goldmark.renderer]
     unsafe = true
@@ -35,6 +35,10 @@ enableemoji = false
         name = "Home"
         url = "/"
         weight = 1
+    [[menu.main]]
+        name = "All data tags"
+        url = "/tags/"
+        weight = 2
 
   #  [[menu.main]]
    #     identifier = "blog"
