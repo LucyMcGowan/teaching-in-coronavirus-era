@@ -5,3 +5,4 @@ subtitle: Compassionate learning resources, data sets, and resources for engagin
 title: Teaching Statistics in the Coronavirus Era
 ---
 
+Have something to add? [Contribute directly](https://github.com/LucyMcGowan/teaching-in-coronavirus-era) or [submit an issue](https://github.com/LucyMcGowan/teaching-in-coronavirus-era/issues) on our GitHub.
