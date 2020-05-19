@@ -7,6 +7,7 @@ tags:
 - county-level
 - us
 - cases
+- repository
 title: New York Times Coronavirus (Covid-19) Data in the United States
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: "2020-05-17"
 tags:
+- repository
 - cases
 - deaths
 - hospitalizations
