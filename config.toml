@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://coronavirus-teaching-resources.netlify.app"
 #CanonifyURLs=true
 
 languageCode = "en-us"
