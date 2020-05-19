@@ -18,3 +18,4 @@ You can download the lecture slides and corresponding materials below:
 [[Rmd Slides](/resources/chloroquine.rmd)]
 [[Html Slides](/resources/chloroquine.html)]
 [[Data csv](/resources/chloroquine.csv)]
+[[Figure](/resources/fig1.png)]
