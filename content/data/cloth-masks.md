@@ -10,8 +10,6 @@ title: Effectiveness of Cloth Face Masks Against Viral Respiratory Infection
 author: "Kari Lock Morgan"
 ---
 
-Effectiveness of Cloth Face Masks Against Viral Respiratory Infection
-
 A randomized experiment in Vietnam compared the effectiveness of medical versus cloth face masks at preventing viral respiratory infections for health care workers. [[Link to article](https://bmjopen.bmj.com/content/5/4/e006577)]
 
 This was used as a homework assignment. Click below to download the associated files:

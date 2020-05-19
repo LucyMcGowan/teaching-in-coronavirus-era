@@ -7,8 +7,6 @@ title: Effect of Social Distancing
 author: "Kari Lock Morgan"
 ---
 
-Effect of Social Distancing
-
 These lecture notes explore the causal effect of social distancing, based on data from March 2020, drawing heavily from the two Pueyo articles posted on medium:
 
 * [Act today or people will die](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
