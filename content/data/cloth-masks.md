@@ -16,6 +16,6 @@ A randomized experiment in Vietnam compared the effectiveness of medical versus 
 
 This was used as a homework assignment. Below are the associated files:
 
-[[RMarkdown document](/static/resources/cloth-mask.Rmd)]
-[[Homework assignment](/static/resources/cloth-mask_homework.pdf)]
-[[Homework solutions](/static/resources/cloth-mask_homework-solutions.pdf)]
+[[RMarkdown document](/resources/cloth-mask.Rmd)]
+[[Homework assignment](/resources/cloth-mask_homework.pdf)]
+[[Homework solutions](/resources/cloth-mask_homework-solutions.pdf)]
