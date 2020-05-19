@@ -31,6 +31,7 @@ tags:
 - global
 - R
 title: Covid-19 Data Hub
+author: "Lucy D'Agostino McGowan"
 ---
 
 [Covid-19 Data Hub](https://covid19datahub.io/index.html)

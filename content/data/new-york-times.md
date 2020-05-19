@@ -9,6 +9,7 @@ tags:
 - cases
 - repository
 title: New York Times Coronavirus (Covid-19) Data in the United States
+author: "Lucy D'Agostino McGowan"
 ---
 
 [Coronavirus (Covid-19) Data in the United States](https://github.com/nytimes/covid-19-data)

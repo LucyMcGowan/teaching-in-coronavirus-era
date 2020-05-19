@@ -7,6 +7,7 @@ tags:
 - alternative data
 - US
 title: "Study of the mental health status of medical personnel dealing with new coronavirus pneumonia"
+author: "Lucy D'Agostino McGowan"
 ---
 
 [Study of the mental health status of medical personnel dealing with new coronavirus pneumonia](https://www.openicpsr.org/openicpsr/project/119321/version/V1/view)

@@ -1,7 +1,7 @@
-
 ---
 date: "2020-05-17"
 title:  Resources for teaching sensitive topics
+author: "Lucy D'Agostino McGowan"
 ---
 
 Here is a list of resources that we have found helpful for thinking about this topic. 

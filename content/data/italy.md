@@ -7,6 +7,7 @@ tags:
 - province
 - demographics
 title: Italy Covid-19 Case Data
+author: "Lucy D'Agostino McGowan"
 ---
 
 [Italy Covid-19 Case Data](https://github.com/pcm-dpc/COVID-19)

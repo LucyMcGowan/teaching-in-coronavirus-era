@@ -9,6 +9,7 @@ tags:
 - alternative data
 - global
 title: "Self-efficacy and fatigue among health care workers during COVID-19 outbreak A moderated mediation model of posttraumatic stress disorder symptoms and negative coping"
+author: "Lucy D'Agostino McGowan"
 ---
 
 [Self-efficacy and fatigue among health care workers during COVID-19 outbreak A moderated mediation model of posttraumatic stress disorder symptoms and negative coping](https://www.openicpsr.org/openicpsr/project/119156/version/V1/view)

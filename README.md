@@ -34,23 +34,22 @@ then
 
 ![](static/image/gh-5.png)
 
-## 5. Paste the following into the `Edit new file` window and add the information about the data you would like to link to. This should _minimally_ include a link to the dataset, one tag the dataset can be searched by, and your name under **Contributed by**. 
+## 5. Paste the following into the `Edit new file` window and add the information about the data you would like to link to. This should _minimally_ include a link to the dataset, one tag the dataset can be searched by, and your name under `author`. 
 
 ```
 ---
 date: "2020-05-19"
+author: "Your Name Here"
 tags:
 - tag1
 - tag2
-title: Title of Your Data
+title: "Title of Your Data"
 ---
 
 [Title of Your Data](Link to your data)
 
-**Contributed by:** Your Name here
+Information about this data, the best way to analyze it, R code if you have some, etc.
 ```
-
-![](static/image/gh-6.png)
 
 
 ## 6. Click `Commit new file`

@@ -1,5 +1,6 @@
 ---
 date: "2020-05-19"
+author: "Lucy D'Agostino McGowan"
 tags:
 - ICPSR
 - health care workers

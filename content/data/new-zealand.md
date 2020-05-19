@@ -9,6 +9,7 @@ tags:
 - recovered
 - demographics
 title: New Zealand Covid-19 Case Data
+author: "Lucy D'Agostino McGowan"
 ---
 
 [New Zealand Covid-19 Case Data](https://github.com/nzherald/nz-covid19-data)

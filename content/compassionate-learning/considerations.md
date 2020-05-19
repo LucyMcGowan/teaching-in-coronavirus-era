@@ -1,6 +1,7 @@
 ---
 date: "2020-05-17"
 title: Should we be discussing Coronavirus in the classroom?
+author: "Lucy D'Agostino McGowan"
 ---
 
 Here are some things to consider. 

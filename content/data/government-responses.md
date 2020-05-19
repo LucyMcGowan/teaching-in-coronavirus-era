@@ -6,6 +6,7 @@ tags:
 - alternative data
 - global
 title: "Governments' Responses to COVID-19"
+author: "Lucy D'Agostino McGowan"
 ---
 
 [Governments' Responses to COVID-19](https://www.openicpsr.org/openicpsr/project/119061/version/V3/view)
