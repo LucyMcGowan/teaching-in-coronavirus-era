@@ -24,4 +24,4 @@ author: "Laura Le and Lucy D'Agostino McGowan"
 
 * Sharing on Short Notice: How to Get Your Materials Online With R Markdown (Alison Hill and Desiree De Lyon) [[Webinar](https://rstudio.com/resources/webinars/sharing-on-short-notice-how-to-get-your-materials-online-with-r-markdown/)] [[Blog post](https://education.rstudio.com/blog/2020/04/sharing-on-short-notice/)] (h/t Mine Çetinkaya-Rundel)
 
-A pattern language for screencasting (Chen and Rabb, 2009) [[DOI](https://dl.acm.org/doi/10.1145/1943226.1943234)] (h/t Mine Çetinkaya-Rundel)
+* A pattern language for screencasting (Chen and Rabb, 2009) [[DOI](https://dl.acm.org/doi/10.1145/1943226.1943234)] (h/t Mine Çetinkaya-Rundel)
