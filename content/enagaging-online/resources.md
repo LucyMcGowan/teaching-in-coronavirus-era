@@ -1,5 +1,6 @@
 ---
 title: "Resources"
+date: "2020-05-20"
 author: "Laura Le and Lucy D'Agostino McGowan"
 ---
 
