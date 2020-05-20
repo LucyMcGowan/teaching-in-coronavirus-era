@@ -20,7 +20,7 @@ enableemoji = false
 
     tagsInHome = 50
     sectionsInHome = 3
-    paginatePostsPerPage = 100
+    paginatePostsPerPage = 5
     paginateTagsPerPage = 100
 
 [taxonomies]
