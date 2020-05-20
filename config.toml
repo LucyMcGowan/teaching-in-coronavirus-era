@@ -19,7 +19,7 @@ enableemoji = false
     githubProfile = "LucyMcGowan/teaching-in-coronavirus-era"
 
     paginate = 10
-    tagsInHome = 30
+    tagsInHome = 50
     sectionsInHome = 3
     paginatePostsPerPage = 30
     paginateTagsPerPage = 30
