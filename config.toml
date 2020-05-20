@@ -18,7 +18,6 @@ enableemoji = false
     math = false # best to enable this in the front matter of a page
     githubProfile = "LucyMcGowan/teaching-in-coronavirus-era"
 
-    paginate = 100
     tagsInHome = 50
     sectionsInHome = 3
     paginatePostsPerPage = 100
