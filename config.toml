@@ -22,7 +22,7 @@ enableemoji = false
     tagsInHome = 50
     sectionsInHome = 3
     paginatePostsPerPage = 30
-    paginateTagsPerPage = 30
+    paginateTagsPerPage = 100
 
 [taxonomies]
     tag = "tags"
